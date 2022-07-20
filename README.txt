@@ -1,1 +1,2 @@
-Git is cool
+Git is cool.
+Working together is fun.
